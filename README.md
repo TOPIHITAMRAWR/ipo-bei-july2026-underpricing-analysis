@@ -48,7 +48,7 @@ Download file `e-IPO Data.csv` dan letakkan di direktori yang sama dengan notebo
 
 **Distribusi Probabilitas Prediksi Model (Gradient Boosting):**
 
-![Probabilitas Prediksi Kelas Return D1](assets/probabilitas_prediksi_d1_gradient_boosting.png.png)
+![Probabilitas Prediksi Kelas Return D1](assets/probabilitas_prediksi_d1_gradient_boosting.png)
 
 Akurasi pada 5 emiten yang sudah listing: **2/5 (40%)**. Kegagalan sistematis pada prediksi kelas ARA diduga disebabkan oleh class imbalance di training data dan ketiadaan fitur oversubscription rate di dataset.
 
